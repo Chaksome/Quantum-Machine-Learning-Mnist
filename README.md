@@ -6,3 +6,12 @@ In addition, the tensor network algorithm of MPS and PEPS was implemented for ha
 
 However, the combination of CNN and PEPS has not been achieved in the end, and this is a direction that can be done subsequently.
 
+myMPS=======>>>>realize the MPS algorithm on MNIST(98.41\%)
+
+myPEPS=======>>>>>realize the PEPS algorithm on MNIST
+
+myCNN=======>>>>>realize the CNN algorithm on MNIST (hit 99.77\%)
+
+myNoise=======>>>>>add noise to my model and see if it will collapse
+
+myAblationExperiment=======>>>>>Optimize the CNN model
