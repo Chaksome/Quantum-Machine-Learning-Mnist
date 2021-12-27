@@ -1,4 +1,5 @@
 # Machine-Learning-Mnist
+Find my code on https://github.com/Chaksome/Machine-Learning-Mnist
 
 The project finally realized the handwritten digit recognition by CNN on MNIST, the network structure diagram is described above, the model is saved in GitHub, and the optimal result is over 99.7\%.
 
